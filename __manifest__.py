@@ -30,11 +30,11 @@ This module provides **Macedonian (mk_MK)** translations for the Odoo 18 Fleet/V
 - Glossary-based consistency (3,681 terms)
 
 **Author:** ЕСКОН-ИНЖЕНЕРИНГ ДООЕЛ Струмица
-**Website:** https://eskon.mk
+**Website:** https://www.eskon.com.mk
 **License:** LGPL-3
     """,
     'author': 'ЕСКОН-ИНЖЕНЕРИНГ ДООЕЛ Струмица',
-    'website': 'https://eskon.mk',
+    'website': 'https://www.eskon.com.mk',
     'depends': ['fleet'],
     'data': [],
     'installable': True,
