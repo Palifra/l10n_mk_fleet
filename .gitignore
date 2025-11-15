@@ -1,0 +1,4 @@
+translation_log.txt
+scan_results/
+*.pyc
+__pycache__/
