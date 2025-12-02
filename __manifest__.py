@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 {
-    'name': 'North Macedonia - Fleet Translations',
+    'name': 'Macedonia - Fleet Translations',
     'version': '1.0',
     'category': 'Accounting/Localizations/Translations',
     'summary': 'Macedonian translations for Fleet/Vehicle Management module',
